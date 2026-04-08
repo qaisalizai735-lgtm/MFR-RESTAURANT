@@ -10,10 +10,7 @@
   "clean": "rm -rf dist",
   "lint": "tsc --noEmit"
 }
-    "build": "vite build",
-    "preview": "vite preview",
-    "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
